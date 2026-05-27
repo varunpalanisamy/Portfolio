@@ -32,5 +32,8 @@
     "three": "^0.169.0",
     "tone": "^15.1.22",
     "typescript": "^6.0.3"
+  },
+  "devDependencies": {
+    "playwright": "^1.60.0"
   }
 }
