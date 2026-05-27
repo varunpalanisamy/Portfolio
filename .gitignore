@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+
+# Build artifacts
+tsconfig.tsbuildinfo
+next-env.d.ts
+
+# Python
+venv/
+
+# OS
+.DS_Store
+.codex-hd2d-check.jpg
+
+# Lock file
+package-lock.json
+
+# Internal docs
+docs/
+
+# Large audio assets
+public/audio/
+
+# HD2D assets
+public/hd2d/
